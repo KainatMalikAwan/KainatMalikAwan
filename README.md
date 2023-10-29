@@ -1,4 +1,4 @@
-![logo](https://github.com/KainatMalikAwan/KainatMalikAwan/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/KainatMalikAwan/KainatMalikAwan/blob/main/3.png)
 <h1 align="center">Hi 👋, I'm kainat malik</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
