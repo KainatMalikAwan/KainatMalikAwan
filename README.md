@@ -1,4 +1,4 @@
-![logo](https://github.com/KainatMalikAwan/KainatMalikAwan/blob/main/3.png)
+![logo](https://github.com/KainatMalikAwan/KainatMalikAwan/blob/main/2.png)
 <h1 align="center">Hi 👋, I'm kainat malik</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
